@@ -39,22 +39,6 @@
 | **DevOps & Tools** | Docker, Jenkins, Git, Linux, Postman |
 | **Architecture** | Microservices, REST API Design, Database Optimization, CI/CD Pipelines |
 
----
-
-### 🚀 Featured Work & Projects
-
-**[Project Name 1]** · *(Spring Boot, Docker, Elasticsearch)*
-* Built a high-performance search service handling indexed queries with under 100ms response time.
-* Implemented Docker containerization and automated Jenkins deployment pipelines.
-* 🔗 **[View Repository](https://github.com/Liang/repo-name)**
-
-**[Project Name 2]** · *(Laravel, SQL, TypeScript)*
-* Designed an enterprise management portal with complex RBAC (Role-Based Access Control) permissions.
-* Optimized SQL queries to reduce backend load times by 40%.
-* 🔗 **[View Repository](https://github.com/Liang/repo-name)**
-
----
-
 ### 📈 Engineering Activity
 
 <div align="center">
