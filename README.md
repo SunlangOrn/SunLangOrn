@@ -8,14 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=28&pause=1000&color=a78bd6&center=true&vCenter=true&random=false&width=600&lines=%E2%98%95+Java+%2F+Spring+Boot+Backend;%F0%9F%9A%80+TypeScript+%26+Laravel;%F0%9F%94%8D+Elasticsearch+Tinkerer;%F0%9F%90%B3+Docker+%26+Jenkins+Pipelines" alt="Typing SVG" />
 </div>
 
-## 🌸 About Me
-```yaml
-name: Liang 
-role: Java Developer
-loves: [clean APIs, solid data models, automated pipelines]
-stack: [Java Spring Boot, TypeScript, Laravel, SQL, Elasticsearch, Docker, Jenkins]
-superpower: turning tickets into shipped, tested services ⚙️
-```
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe4f0,100:ffc9e3&height=120&section=footer&text=thanks%20for%20visiting!%20%F0%9F%92%95&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 </h1>
