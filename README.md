@@ -9,18 +9,18 @@
 </div>
 
 ## 🌸 About Me
-```yaml
-name: Liang 🎀
-role: Java Developer
-loves: [clean APIs, solid data models, automated pipelines]
-stack: [Java Spring Boot, TypeScript, Laravel, SQL, Elasticsearch, Docker, Jenkins]
-superpower: turning tickets into shipped, tested services ⚙️
-```
-- 🧠 I build backend systems that are reliable first, elegant second.
-- 🔍 Comfortable wiring up search and indexing with Elasticsearch.
-- 🐳 I like my services containerized and my pipelines automated.
-- 🌟 If something here is useful to you, a star is always appreciated ⭐
 
+<div align="center">
+
+| | |
+|---|---|
+| 🎀 **Name** | Liang |
+| ⚙️ **Role** | Java Developer |
+| 💡 **Loves** | Clean APIs, solid data models, automated pipelines |
+| 🧰 **Stack** | Java Spring Boot · TypeScript · Laravel · SQL · Elasticsearch · Docker · Jenkins |
+| ⚡ **Superpower** | Turning tickets into shipped, tested services |
+
+</div>
 ## 🛠️ Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,ts,laravel,mysql,postgres,docker,jenkins,elasticsearch,git,vscode" /><br/>
