@@ -9,13 +9,13 @@
 </div>
 
 ## 🌸 About Me
-
-<div align="center">
-
-> 🎀 **Liang** — Java Developer  
-> 💡 *Loves clean APIs, solid data models & automated pipelines*  
-> ⚡ *Superpower: turning tickets into shipped, tested services*
-</div>
+```yaml
+name: Liang 
+role: Java Developer
+loves: [clean APIs, solid data models, automated pipelines]
+stack: [Java Spring Boot, TypeScript, Laravel, SQL, Elasticsearch, Docker, Jenkins]
+superpower: turning tickets into shipped, tested services ⚙️
+```
 ## 🛠️ Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,ts,laravel,mysql,postgres,docker,jenkins,elasticsearch,git,vscode" /><br/>
