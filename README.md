@@ -12,13 +12,11 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| 🎀 **Name** | Liang |
-| ⚙️ **Role** | Java Developer |
-| 💡 **Loves** | Clean APIs, solid data models, automated pipelines |
-| 🧰 **Stack** | Java Spring Boot · TypeScript · Laravel · SQL · Elasticsearch · Docker · Jenkins |
-| ⚡ **Superpower** | Turning tickets into shipped, tested services |
+> 🎀 **Liang** — Java Developer  
+> 💡 *Loves clean APIs, solid data models & automated pipelines*  
+> ⚡ *Superpower: turning tickets into shipped, tested services*
+
+**Stack:** `Java Spring Boot` `TypeScript` `Laravel` `SQL` `Elasticsearch` `Docker` `Jenkins`
 
 </div>
 ## 🛠️ Tech Stack
